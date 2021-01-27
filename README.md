@@ -6,6 +6,6 @@
 
 3. Please change the DB credential from .env file
 
-4. Please have a look to the routes/api and UserController for API testing.
+4. System is developed in Laravel. Please have a look to the routes/api and UserController for API testing.
 
 5. API is Tested in Postman REST API Tool.
